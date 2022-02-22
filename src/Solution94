@@ -14,7 +14,7 @@ import java.util.*;
  *     }
  * }
  */
-class Solution {
+class Solution94 {
     List<Integer> res = new LinkedList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
         dfs(root);
